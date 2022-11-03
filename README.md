@@ -1,0 +1,2 @@
+# definitionAPI
+Word Definition API
